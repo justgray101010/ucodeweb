@@ -1,0 +1,48 @@
+table{
+    border: 1px solid gray;
+    border-collapse: collapse;
+  }
+
+img {
+    height: 120px;
+    width: 120px;
+}
+
+th {
+    color: white;
+    text-align: center;
+}
+
+td {
+    text-align: center; 
+    border: 1px solid whitesmoke;
+    border-collapse: collapse;  
+}
+
+#R0 {
+    background-color: black;
+}
+
+#R1 {
+    background-color: #d6923d;
+}
+
+#R2 {
+    background-color: #008001;
+}
+
+#R3 {
+    background-color: #005792;
+}
+
+#R4 {
+    background-color: #ffff05;
+}
+
+#R5 {
+    background-color: #c12a2e;
+}
+
+#R6 {
+    background-color: #8175b7;
+}

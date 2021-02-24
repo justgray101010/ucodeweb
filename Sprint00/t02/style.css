@@ -1,0 +1,15 @@
+#ss {
+    color: green;
+    padding: 10px;
+    height: 2em;
+    width: 90%
+}
+
+#but {
+    color: green;
+    padding: 10px;
+}
+
+#ss:hover, #but:hover {
+    color: red;
+}
